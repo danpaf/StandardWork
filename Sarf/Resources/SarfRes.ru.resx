@@ -1,0 +1,47 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="InvalidAuthCredentials" xml:space="preserve">
+        <value>Неверный логин или пароль</value>
+    </data>
+    <data name="UserAlreadyExists" xml:space="preserve">
+        <value>Пользователь уже существует</value>
+    </data>
+    <data name="InvalidUsernameLength" xml:space="preserve">
+        <value>Имя пользователя должно быть длиннее {0} символов и короче {1}</value>
+    </data>
+    <data name="InvalidPasswordLength" xml:space="preserve">
+        <value>Пароль должен быть длиннее {0} символов и короче {1}</value>
+    </data>
+    <data name="InvalidEmail" xml:space="preserve">
+        <value>Неверный email</value>
+    </data>
+    <data name="InvalidJwtToken" xml:space="preserve">
+        <value>Неверный токен</value>
+    </data>
+    <data name="HackedJwt" xml:space="preserve">
+        <value>Co0l_YoU_HacKeD_My_JwT...I_kn0W_WhO_Y_R</value>
+    </data>
+    <data name="SomethingWentWrong" xml:space="preserve">
+        <value>Что-то пошло не так</value>
+    </data>
+    <data name="InvalidRefreshToken" xml:space="preserve">
+        <value>Неверный refresh токен</value>
+    </data>
+    <data name="TokenWasExpired" xml:space="preserve">
+        <value>Токен истек</value>
+    </data>
+    <data name="TokenAlreadyUsed" xml:space="preserve">
+        <value>Токен уже был использован</value>
+    </data>
+</root>

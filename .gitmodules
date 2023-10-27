@@ -1,0 +1,9 @@
+[submodule "Sarf"]
+	path = Sarf
+	url = https://github.com/IstStandard/Sarf
+[submodule "StandardShared"]
+	path = StandardShared
+	url = https://github.com/IstStandard/StandardShared
+[submodule "Core"]
+	path = Core
+	url = https://github.com/IstStandard/Core
